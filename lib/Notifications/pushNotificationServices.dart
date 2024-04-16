@@ -47,7 +47,7 @@ class PushNotificationServices{
       fromUserName = message['sender_name'];
     }
     await notificationsPlugin.show(
-      0, "Siro Message", "You have a new message from ${sendToDoc == true ? fromUserName : "Dr. $fromUserName"}",
+      0, "Fast-Aid", "You have a new message from ${sendToDoc == true ? fromUserName : "Dr. $fromUserName"}",
       platformChannelSpecs,
     );
   }

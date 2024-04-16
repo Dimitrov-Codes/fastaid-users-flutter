@@ -269,6 +269,7 @@ class _MainScreenState extends State<MainScreen> with TickerProviderStateMixin {
 
   void locatePosition() async {
     Position position = await Geolocator.getCurrentPosition(desiredAccuracy: LocationAccuracy.high);
+    // print(position);
     currentPosition = position;
     LatLng latLngPosition = LatLng(position.latitude, position.longitude);
     CameraPosition cameraPosition = new CameraPosition(target: latLngPosition, zoom: 15);

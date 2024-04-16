@@ -69,7 +69,7 @@ class AssistantMethods {
 
     Map notificationMap = {
       "body": "You have a new message from ${sendToDoc == true ? fromUserName : "Dr. $fromUserName"}",
-      "title": "Siro Message",
+      "title": " Message",
     };
 
     Map dataMap = {

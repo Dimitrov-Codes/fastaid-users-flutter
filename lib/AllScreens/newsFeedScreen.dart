@@ -64,7 +64,7 @@ class _NewsFeedScreenState extends State<NewsFeedScreen> {
           titleSpacing: 0,
           elevation: 0,
           backgroundColor: Colors.grey[100],
-          title: Text("Siro News Feed", style: TextStyle(
+          title: Text("Fast-Aid News Feed", style: TextStyle(
             fontFamily: "Brand Bold",
             color: Color(0xFFa81845)
           ),),

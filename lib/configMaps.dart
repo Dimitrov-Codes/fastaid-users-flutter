@@ -2,7 +2,7 @@
 * Created by Mujuzi Moses
 */
 
-String mapKey = "AIzaSyCZPtd_SAT_zel83HS5tX1bTCRT9ob8pGE";
+String mapKey = "AIzaSyBiX8NL0Ekg9pZ6_jXzqqk6ZAlf3xFUlxM";
 
 int driverRequestTimeOut = 40;
 

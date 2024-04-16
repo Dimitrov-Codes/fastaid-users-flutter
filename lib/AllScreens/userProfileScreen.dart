@@ -243,7 +243,7 @@ class _UserProfileScreenState extends State<UserProfileScreen> {
             backgroundColor: Colors.grey[100],
             elevation: 0,
             centerTitle: true,
-            title: Text("Siro", style: TextStyle(
+            title: Text("Fast Aid", style: TextStyle(
               fontFamily: "Brand Bold",
               color: Color(0xFFa81845),
             ),),

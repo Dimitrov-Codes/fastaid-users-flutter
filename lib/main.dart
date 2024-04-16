@@ -108,7 +108,7 @@ class _MyAppState extends State<MyApp> {
       ],
       child: OverlaySupport.global(
         child: new MaterialApp(
-          title: "Siro App",
+          title: "Fast-Aid",
           debugShowCheckedModeBanner: false,
           theme: ThemeData(
 

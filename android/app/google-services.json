@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "325674316325",
-    "project_id": "emalert-2788e",
-    "storage_bucket": "emalert-2788e.appspot.com"
+    "project_number": "278834310815",
+    "project_id": "fast-aid-38219",
+    "storage_bucket": "fast-aid-38219.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:325674316325:android:5c6a49ec7899716e9945cc",
+        "mobilesdk_app_id": "1:278834310815:android:6797c6e9181de9b6153caa",
         "android_client_info": {
           "package_name": "com.mujuzimoses.emalert"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "325674316325-krg4m026teoogfhpp5lbhh9ih3uodnjg.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCZPtd_SAT_zel83HS5tX1bTCRT9ob8pGE"
+          "current_key": "AIzaSyDmVnqT8JeKqk77q-fPUlSzUlKNC7wNAdU"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "325674316325-krg4m026teoogfhpp5lbhh9ih3uodnjg.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }

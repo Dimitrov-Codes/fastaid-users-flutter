@@ -712,19 +712,9 @@ class _DoctorProfileState extends State<DoctorProfile> {
                                             ],
                                           ),
                                           Row(
-                                            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                                            mainAxisAlignment: MainAxisAlignment.start,
                                             crossAxisAlignment: CrossAxisAlignment.center,
                                             children: <Widget>[
-                                              accessTile(
-                                                icon: FontAwesomeIcons.ban,
-                                                title: "MoH",
-                                                alert: "0",
-                                                onTap: () => Navigator.push(
-                                                  context, MaterialPageRoute(
-                                                  builder: (context) => SiroWeb(url: 'https://www.health.go.ug/',),
-                                                ),
-                                                ),
-                                              ),
                                               accessTile(
                                                 icon: FontAwesomeIcons.virus,
                                                 title: "COVID-19",
